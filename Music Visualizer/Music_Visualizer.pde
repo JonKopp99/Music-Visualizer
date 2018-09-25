@@ -29,7 +29,7 @@ void setup() {
   mode=0;
   minim = new Minim(this);
   selectInput("Select a song to play:", "fileSelected");
-  song = minim.loadFile("Deorro - Five Hours.mp3 ", 1024);
+  song = minim.loadFile("Deorro - Five Hours.mp3", 1024);
   meta = song.getMetaData();
   song.play();
   thesize=(width/3);
