@@ -7,6 +7,6 @@ Visualizes music which is taken from a song file you select. It will output colo
 
 **How to use!**
 
-Load a new song by pressing L and selecting a file!
+Load a new song by pressing L and selecting a .mp3 file!
 
 Press space to change the size.
